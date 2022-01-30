@@ -4,25 +4,20 @@ Metachained Game Studio is an organization that is researching and developing an
 For the purposes of maintaining accurate and up-to-date information on the development of Metachained Game Studio.
 
 **We want to promote:**
-
-1.  Uniqueness and function of designs
-2.  Organising developers
-
-This is the first point. Secondly:
-
-**Execution and Time Management**
-
--   Sprint Planning
--   Risk management
--   Improvisation
+1. Uniqueness and function of designs
+2. Organising developers
+3. Earn
 
 #### Join the Discord
 
-[(Link to Discord Server)](https://discord.gg/Z4yubG5GU7)
+[Link to Discord Server](https://discord.gg/Z4yubG5GU7)
 
 ### Index
-[[What is Metachained Game Studio?]]
+**Blog**
+[Blog/What is Metachained Game Studio](Blog/What is Metachained Game Studio)
 
+**Developer Update**
+[Dev Update/Learning Bevy 01](Dev Update/Learning Bevy 01)
 
 ### Contribution
 

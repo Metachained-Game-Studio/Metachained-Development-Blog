@@ -118,7 +118,7 @@ Developed with the community using **performative development**. This means we w
 
 — Lord of Dark Places, Hal Bennet
 
-<aside> 🗡️ The world has once more, begun it's fracture Monsters that kept to their [boundaries] are venturing forth Travellers and merchants are found dead in the road, towns destroyed People of the capital are showing signs of unrest There are whispers that the king is missing and the prince has gone into a frenzy An adventurer awakens without mind or memory...
+<aside> 🗡️ The world has once more, begun it's fracture. Monsters that kept to their [boundaries] are venturing forth. Travellers and merchants are found dead in the road, towns destroyed. People of the capital are showing signs of unrest. There are whispers that the king is missing and the prince has gone into a frenzy. An adventurer awakens without mind or memory...
 
 </aside>
 
@@ -137,7 +137,7 @@ Decentralized communities like ICPDAO, PeopleLand, the Builder and the Tai proje
 -   Mobilizing the community around the world by informing them about opportunities of our platform.
 -   Establishing different channels for projects where ideas can be developed; Organized group testing, funding allocation, marketing, research and development.
 -   Engaging in community-driven expansion of financial incentives and compound benefits for it's users.
--   Cooperating with established portfolios such as Loot Project.
+-   Cooperating with established portfolios such as Loot Project or other.
 
 **Bridging the gap between virtual and real world opportunities for users:**
 
@@ -159,7 +159,8 @@ Decentralized communities like ICPDAO, PeopleLand, the Builder and the Tai proje
 
 ### **Game Development**
 
-**Metachained Studio** Envisioning an online, digitized version of a tabletop board game, where you sell the players the table they play on and they do what they want using the tools provided.
+**Metachained Studio** 
+Envisioning an online, digitized version of a tabletop board game, where you sell the players the table they play on and they do what they want using the tools provided.
 
 **Version 1: Phoenix Development**
 
