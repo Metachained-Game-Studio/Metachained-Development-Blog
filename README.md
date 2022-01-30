@@ -1,5 +1,30 @@
-# Metachained-Development-Blog
+# Metachained Development Blog
 Metachained Game Studio is an organization that is researching and developing an intuitive web application framework notably using the Bevy game engine and Django web framework for the development of web-based interactive adventure games powered by Web 3.0 on the ETH 2.0 network.
+
+For the purposes of maintaining accurate and up-to-date information on the development of Metachained Game Studio.
+
+**We want to promote:**
+
+1.  Uniqueness and function of designs
+2.  Organising developers
+
+This is the first point. Secondly:
+
+**Execution and Time Management**
+
+-   Sprint Planning
+-   Risk management
+-   Improvisation
+
+#### Join the Discord
+
+[(Link to Discord Server)](https://discord.gg/Z4yubG5GU7)
+
+### Index
+[[What is Metachained Game Studio?]]
+
+
+### Contribution
 
 **Vertical Slice**
 
